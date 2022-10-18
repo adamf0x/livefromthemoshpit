@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/livefromthemoshpit/static/css/main.42dc00de.css",
+    "main.js": "/livefromthemoshpit/static/js/main.7d3dd30d.js",
+    "static/js/787.a521e005.chunk.js": "/livefromthemoshpit/static/js/787.a521e005.chunk.js",
+    "static/media/Screenshot_9.png": "/livefromthemoshpit/static/media/Screenshot_9.4d362ce48bec01a8b370.png",
+    "static/media/Screenshot_7.png": "/livefromthemoshpit/static/media/Screenshot_7.ec194ad17e9203036d05.png",
+    "static/media/terrain-normal.jpg": "/livefromthemoshpit/static/media/terrain-normal.318b961c7ac1bdcfdf1d.jpg",
+    "static/media/Screenshot_8.png": "/livefromthemoshpit/static/media/Screenshot_8.c62d97a644d8b41c126b.png",
+    "static/media/Screenshot_10.png": "/livefromthemoshpit/static/media/Screenshot_10.e1015937222b7fefa728.png",
+    "static/media/terrain-roughness.jpg": "/livefromthemoshpit/static/media/terrain-roughness.346b20ea0c1cfe3bbfa9.jpg",
+    "static/media/download2.jpg": "/livefromthemoshpit/static/media/download2.8e9d8d02c0995fe6fea9.jpg",
+    "static/media/download.jpg": "/livefromthemoshpit/static/media/download.48a7a48affd98c274ee5.jpg",
+    "index.html": "/livefromthemoshpit/index.html",
+    "main.42dc00de.css.map": "/livefromthemoshpit/static/css/main.42dc00de.css.map",
+    "main.7d3dd30d.js.map": "/livefromthemoshpit/static/js/main.7d3dd30d.js.map",
+    "787.a521e005.chunk.js.map": "/livefromthemoshpit/static/js/787.a521e005.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42dc00de.css",
+    "static/js/main.7d3dd30d.js"
+  ]
+}
